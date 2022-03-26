@@ -16,7 +16,6 @@ import com.idat.DTO.ProfesorRequestDTO;
 import com.idat.DTO.ProfesorResponseDTO;
 import com.idat.model.Profesor;
 import com.idat.service.ProfesorServices;
-
 @RestController
 @RequestMapping("/profesor/v1")
 public class ProfesorController {
